@@ -9,14 +9,6 @@
 - Real-Time Effect Writing
 - Models used: `bert-base-multilingual-uncased-sentiment` & `Helsinki-NLP`
 
-## Acknowledgments
-
-**Python3**: [http://bit.ly/python3-certifications](http://bit.ly/python3-certifications)  
-**Machine Learning**: [https://bit.ly/machine-learning-certification](https://bit.ly/machine-learning-certification)
-<br>
-**Large Language Models**: [https://bit.ly/large-language-models-certification](https://bit.ly/large-language-models-certification)
-<br>
-**Responsive Web Design**: [https://bit.ly/responsive-web-design-certifications](https://bit.ly/responsive-web-design-certifications)
 
 ## Demo Video
 
